@@ -8,7 +8,7 @@ import "./App.css";
 import Forms from "./components/Forms";
 import RoomPage from "./pages/RoomPage";
 
-const server = "https://railway.app/project/63aa3062-b5fb-440b-a422-a63493dd6f54/service/b58337b7-28ab-450d-9593-e096298c0ef0?id=d4887f2c-0799-4648-bb2f-71b5f04730ff";
+const server = "https://railway.app/project/63aa3062-b5fb-440b-a422-a63493dd6f54";
 const connectionOptions = {
   "force new connection": true,
   reconnectionAttempts: "Infinity",
