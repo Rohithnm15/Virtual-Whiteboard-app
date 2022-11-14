@@ -8,7 +8,7 @@ import "./App.css";
 import Forms from "./components/Forms";
 import RoomPage from "./pages/RoomPage";
 
-const server = "https://virtual-whiteboard-app.railway.app";
+const server = "https://railway.app/project/63aa3062-b5fb-440b-a422-a63493dd6f54";
 const connectionOptions = {
   "force new connection": true,
   reconnectionAttempts: "Infinity",
