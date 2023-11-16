@@ -3,6 +3,6 @@ This is a online whiteboard-based web application with screen recording
 
 ## Contributed by
 
-* Sri Vishnuvardhan K
+* Shri Vishnuvardhan K
 * Rohith N M
-* Ben lee williams
+* Ben Lee Williams
